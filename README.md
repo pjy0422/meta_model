@@ -29,7 +29,3 @@ python pipeline.py
 ```
 
 Make sure to execute this command in each directory where `pipeline.py` is located.
-
---- 
-
-This version is more organized, providing clear instructions in each section. Let me know if you need further customization!
