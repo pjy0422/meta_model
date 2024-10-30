@@ -1,0 +1,16 @@
+binary_classification/mlartifacts/*
+binary_classification/mlruns/*
+binary_classification/creditcard.csv
+binary_classification/figures/*
+binary_classification/results/*
+binary_classification/__pycache__/*
+multiclass_classification/__pycache__/*
+multiclass_classification/figures/*
+multiclass_classification/results/*
+multiclass_classification/mlartifacts/*
+multiclass_classification/mlruns/*
+regression/__pycache__/*
+regression/figures/*
+regression/results/*
+regression/mlartifacts/*
+regression/mlruns/*
