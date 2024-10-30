@@ -1,0 +1,13 @@
+seaborn
+matplotlib
+lightgbm
+mlflow
+pandas
+numpy<2
+scikit-learn
+pymfe
+xgboost
+keras
+tensorflow
+xlrd
+openpyxl
